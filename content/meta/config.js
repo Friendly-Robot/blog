@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: "Friendly-Robot", // <title>
   shortSiteTitle: "Friendly Blog", // <title> ending for posts and pages
   siteDescription: "A friendly blog.",
-  siteUrl: "",
+  siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
