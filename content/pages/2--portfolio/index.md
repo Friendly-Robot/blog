@@ -6,53 +6,56 @@ menuTitle: portfolio
 
 <p style="text-align: center; font-weight: bold; font-size: 1.5em; margin: 0;">Think Habit</p>
 <p style="text-align: center;">A mental health app based on sentence completions.</p>
-<img src="./think-habit.png" style="margin: 0"/>
-<div style="display: table; width: 25%; margin: -50px auto 25px auto">
+<div style="display: table; width: 25%; margin: 15px auto 25px auto">
   <div style="float: left;">
     <a href="https://play.google.com/store/apps/details?id=com.thinkhabit" target="_blank">
-      <img src="./google-play-icon.png"/>
+      Google Play
     </a>
   </div>
   <div style="float: right;">
     <a href="https://itunes.apple.com/us/app/think-habit/id1436381769?ls=1&mt=8" target="_blank">
-      <img src="./app-store-icon.png"/>
+      App Store
     </a>
   </div>
 </div>
+<img src="./think-habit.png" style="margin: 0"/>
+
 
 
 <p style="text-align: center; font-weight: bold; font-size: 1.5em; margin: 0; margin-top: 5em;">O2 Balloons</p>
 <p style="text-align: center;">A mobile shopping application that enables balloon artists to learn, market, and sell their creations.</p>
-<img src="./o2balloons.png" style="margin: 0"/>
-<div style="display: table; width: 25%; margin: -50px auto 25px auto">
+<div style="display: table; width: 25%; margin: 15px auto 25px auto">
   <div style="float: left;">
     <a href="https://play.google.com/store/apps/details?id=com.o2balloons" target="_blank">
-      <img src="./google-play-icon.png"/>
+      Google Play      
     </a>
   </div>
   <div style="float: right;">
     <a href="https://itunes.apple.com/us/app/o2-balloons/id1387065496?ls=1&mt=8" target="_blank">
-      <img src="./app-store-icon.png"/>
+      App Store      
     </a>
   </div>
 </div>
+<img src="./o2balloons.png" style="margin: 0"/>
+
 
 
 <p style="text-align: center; font-weight: bold; font-size: 1.5em; margin: 0; margin-top: 5em;">Link Card</p>
 <p style="text-align: center;">A social networking tool for sharing contact information.</p>
-<img src="./link.png" style="margin: 0"/>
-<div style="display: table; width: 25%; margin: -50px auto 25px auto">
+<div style="display: table; width: 25%; margin: 15px auto 25px auto">
   <div style="float: left;">
     <a href="https://play.google.com/store/apps/details?id=com.network.application.Link" target="_blank">
-      <img src="./google-play-icon.png"/>
+      Google Play
     </a>
   </div>
   <div style="float: right;">
     <a href="https://itunes.apple.com/us/app/link-card/id1362257137?ls=1&mt=8" target="_blank">
-      <img src="./app-store-icon.png"/>
+      App Store      
     </a>
   </div>
 </div>
+<img src="./link.png" style="margin: 0"/>
+
 
 
 <p style="text-align: center; font-weight: bold; font-size: 1.5em; margin: 0; margin-top: 5em;">Enforce</p>
