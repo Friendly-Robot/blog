@@ -47,4 +47,8 @@ Seo.propTypes = {
   facebook: PropTypes.object.isRequired
 };
 
+Seo.defaultProps = {
+  facebook: {}
+};
+
 export default Seo;
