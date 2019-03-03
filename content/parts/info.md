@@ -2,4 +2,4 @@
 title: info
 ---
 
-I am a front-end web developer. I used to be a web designer too, but now I concentrate on the code.
+I am a full-stack web developer. I enjoy finding the "missing-links" and building elegant solutions.
