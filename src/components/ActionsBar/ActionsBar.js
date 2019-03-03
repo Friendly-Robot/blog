@@ -98,9 +98,9 @@ class ActionsBar extends React.Component {
   searchOnClick = moveNavigatorAside.bind(this);
 
   fullscreenOnClick = () => {
-    if (screenfull.enabled) {
-      screenfull.toggle();
-    }
+    // if (screenfull.enabled) {
+    //   screenfull.toggle();
+    // }
   };
 
   arrowUpOnClick = () => {
